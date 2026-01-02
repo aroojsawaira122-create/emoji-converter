@@ -1,0 +1,32 @@
+{
+  "emotions": {
+    "happy": {
+      "emoji": "😄",
+      "keywords": ["happy", "joy", "great", "awesome", "good", "nice"]
+    },
+    "sad": {
+      "emoji": "😢",
+      "keywords": ["sad", "down", "unhappy", "cry", "bad"]
+    },
+    "angry": {
+      "emoji": "😠",
+      "keywords": ["angry", "mad", "hate", "furious"]
+    },
+    "surprise": {
+      "emoji": "😲",
+      "keywords": ["wow", "surprise", "shocked", "amazing"]
+    },
+    "fear": {
+      "emoji": "😨",
+      "keywords": ["fear", "scared", "afraid"]
+    },
+    "love": {
+      "emoji": "❤️",
+      "keywords": ["love", "lovely", "like"]
+    },
+    "neutral": {
+      "emoji": "😐",
+      "keywords": []
+    }
+  }
+}
